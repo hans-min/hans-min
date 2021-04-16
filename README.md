@@ -9,11 +9,13 @@ Nice to meet you!
 
 - 🔭 I’m currently working on my school project of Selective breeding of plants and hybrid breeding of animals using Java.
 - 🌱 I’m currently learning Game Development
-- 💬 How to reach me: https://www.messenger.com/t/100003712268495
+- 💬 How to reach me: 
+<img src="https://cdn.worldvectorlogo.com/logos/facebook-messenger-3.svg" alt="Messenger Logo" width="20" height="20"/> : https://www.messenger.com/t/100003712268495
+<img src="https://cdn.worldvectorlogo.com/logos/gmail-icon.svg" alt="Gmail Logo" width="20" height="20"/> : kaitothedraggy@gmai.com
 - ⚡ Fun fact: Nothing to share for now...
 ---
 🧰 Toolbox
-<img src="https://cdn.worldvectorlogo.com/logos/facebook-messenger-3.svg" alt="Messenger Logo" width="40" height="40"/>
+
 <img src="https://cdn.worldvectorlogo.com/logos/javascript.svg" alt="JavaScript Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt="CSS Logo" width="50" height="50"/>
 
 ---
