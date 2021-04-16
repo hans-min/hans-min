@@ -14,13 +14,10 @@ Nice to meet you!
 ---
 🧰 Toolbox
 <img src="https://worldvectorlogo.com/download/facebook-messenger-3.svg" alt="Messenger Logo" width="40" height="40"/>
-
+<img src="https://cdn.worldvectorlogo.com/logos/javascript.svg" alt="JavaScript Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt="CSS Logo" width="50" height="50"/>
 
 ---
 
 ## &#x1f4c8; My GitHub Stats
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hans-min&hide=java,html,css&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
 
 [![Hanji's GitHub stats](https://github-readme-stats.vercel.app/api?username=hans-min&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
