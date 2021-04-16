@@ -13,7 +13,7 @@ Nice to meet you!
 - ⚡ Fun fact: Nothing to share for now...
 ---
 🧰 Toolbox
-<img src="https://worldvectorlogo.com/download/facebook-messenger-3.svg" alt="Messenger Logo" width="40" height="40"/>
+<img src="https://cdn.worldvectorlogo.com/logos/facebook-messenger-3.svg" alt="Messenger Logo" width="40" height="40"/>
 <img src="https://cdn.worldvectorlogo.com/logos/javascript.svg" alt="JavaScript Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt="CSS Logo" width="50" height="50"/>
 
 ---
