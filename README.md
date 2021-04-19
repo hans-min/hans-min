@@ -16,7 +16,7 @@ Nice to meet you!
 ---
 🧰 Toolbox
 
-<img src="https://cdn.worldvectorlogo.com/logos/java-4.svg" alt="Java Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/godot-logo.svg" alt="Godot Logo" width="50" height="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/java-4.svg" alt="Java Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/godot-logo.svg" alt="Godot Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="VSCode Logo" width="50" height="50"/>
 
 ---
 
