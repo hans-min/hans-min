@@ -1,6 +1,8 @@
 <h2> Xin chào, World ! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
 ![Github Follow](https://img.shields.io/github/followers/hans-min?style=social)
+<img src="https://komarev.com/ghpvc/?username=hans-min&&style=flat-square" align="center" />
+</div>  
 
 I am Hanji, an engineering student by day and a gamer by night. I am self-taught on Godot, Asesprite and RPG Maker. I'm searching for an internship and school in the game sector.
 Nice to meet you!
@@ -32,3 +34,12 @@ Nice to meet you!
 ## &#x1f4c8; My GitHub Stats
 
 [![Hanji's GitHub stats](https://github-readme-stats.vercel.app/api?username=hans-min&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=meehees&cover_image=true&theme=default" /></div>  
+
+<br/>  
+
+
+  
+
