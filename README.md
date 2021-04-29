@@ -1,4 +1,4 @@
-<h2> Xin chào, World ! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
+<h1> Xin chào, World ! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
 ![Github Follow](https://img.shields.io/github/followers/hans-min?style=social)
 
