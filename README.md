@@ -1,7 +1,7 @@
 <h2> Xin chào, World ! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
 ![Github Follow](https://img.shields.io/github/followers/hans-min?style=social)
-<img src="https://komarev.com/ghpvc/?username=hans-min&&style=flat-square" align="center" />
+<div align="center"> <img src="https://komarev.com/ghpvc/?username=hans-min&&style=flat-square" align="center" />
 </div>  
 
 I am Hanji, an engineering student by day and a gamer by night. I am self-taught on Godot, Asesprite and RPG Maker. I'm searching for an internship and school in the game sector.
