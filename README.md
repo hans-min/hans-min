@@ -1,4 +1,4 @@
-<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <human/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
+<h2> Xin chào, World ! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
 ![Github Follow](https://img.shields.io/github/followers/hans-min?style=social)
 
@@ -9,9 +9,20 @@ Nice to meet you!
 
 - 🔭 I’m currently working on my school project of Selective breeding of plants and hybrid breeding of animals using Java.
 - 🌱 I’m currently learning Game Development
-- 💬 How to reach me: 
-+ <img src="https://cdn.worldvectorlogo.com/logos/facebook-messenger-3.svg" alt="Messenger Logo" width="20" height="20"/> : https://www.messenger.com/t/100003712268495
-+ <img src="https://cdn.worldvectorlogo.com/logos/gmail-icon.svg" alt="Gmail Logo" width="20" height="20"/> : kaitothedraggy@gmail.com
+- ⚡ Fun fact: I love wolf 🐺! And dog! 
+---
+## Connect with me  
+<div align="center">
+<a href="https://github.com/hans-min" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/hans-min-4510471" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.facebook.com/Hanji4510471" target="_blank">
+<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
+</a>  
+</div>  
 
 ---
 🧰 Toolbox
