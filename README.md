@@ -34,7 +34,7 @@ Nice to meet you!
 
 ## &#x1f4c8; My GitHub Stats
 
-[![Hanji's GitHub stats](https://github-readme-stats.vercel.app/api?username=hans-min&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Hanji's GitHub stats](https://github-readme-stats.vercel.app/api?username=hans-min&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=meehees&cover_image=true&theme=default" /></div>  
