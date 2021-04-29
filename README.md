@@ -11,8 +11,12 @@ Nice to meet you!
 - 🌱 I’m currently learning Game Development
 - ⚡ Fun fact: I love wolf 🐺! And dog! 
 ---
-## Connect with me  
-<div align="center">
+## 🧰 Toolbox
+
+<img src="https://cdn.worldvectorlogo.com/logos/java-4.svg" alt="Java Logo" width="60" height="60"/> <img src="https://cdn.worldvectorlogo.com/logos/godot-logo.svg" alt="Godot Logo" width="70" height="70"/> <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="VSCode Logo" width="50" height="50"/>
+
+---
+## 💬 Connect with me  
 <a href="https://github.com/hans-min" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
@@ -22,12 +26,6 @@ Nice to meet you!
 <a href="https://www.facebook.com/Hanji4510471" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>  
-</div>  
-
----
-🧰 Toolbox
-
-<img src="https://cdn.worldvectorlogo.com/logos/java-4.svg" alt="Java Logo" width="60" height="60"/> <img src="https://cdn.worldvectorlogo.com/logos/godot-logo.svg" alt="Godot Logo" width="70" height="70"/> <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="VSCode Logo" width="50" height="50"/>
 
 ---
 
