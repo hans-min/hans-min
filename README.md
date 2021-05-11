@@ -39,6 +39,7 @@ Nice to meet you!
 [![Hanji's GitHub stats](https://github-readme-stats.vercel.app/api?username=hans-min&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
+## :musical_note: My Spotify
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=meehees&cover_image=true&theme=default" /></div>  
 
 <br/>  
