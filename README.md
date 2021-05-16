@@ -10,9 +10,10 @@ Nice to meet you!
 
 ---
 
-- 🔭 I’m currently working on my school project of Selective breeding of plants and hybrid breeding of animals using Java.
+- 🔭 I’m currently working on my school project of Selective breeding of plants and hybrid breeding of animals using Java. (Done! Will upload later)
 - 🌱 I’m currently learning Game Development. I love thinking and solving problem, and I solve 1 challenge each day on Hackerrank and Codingame. https://www.hackerrank.com/HansMin
-- ⚡ Fun fact:
+
+## ⚡ Fun fact:
 -  I love wolf 🐺! And dog! 
 -  Youtube is, in my opinion, the best social and learning platform.
 ---
