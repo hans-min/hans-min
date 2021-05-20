@@ -43,6 +43,8 @@ Nice to meet you!
 ## :musical_note: My Spotify
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=meehees&cover_image=true&theme=default" /></div>  
 
+<img src="https://alternative.me/crypto/fear-and-greed-index.png" alt="Latest Crypto Fear & Greed Index" />
+
 <br/>  
 <div align="center"><img src="https://camo.githubusercontent.com/7998890254268d8ed476c9f66d3fa59d21dd354d2090036083c82af4cda2a0eb/68747470733a2f2f666f7274686562616467652e636f6d2f696d616765732f6261646765732f6275696c742d776974682d6c6f76652e737667"/></div>  
 
