@@ -1,21 +1,26 @@
 <h1> Xin chào, World ! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
+```java
+if (isAwesome){
+  return true
+}
+```
 ![Github Follow](https://img.shields.io/github/followers/hans-min?style=social)
 
 <img src="https://komarev.com/ghpvc/?username=hans-min&&style=flat-square" align="center" />
 </div>  
 
-I am Hanji, an engineering student by day and a gamer by night. I am self-taught on Godot, Asesprite and RPG Maker. I'm searching for an internship and school in the game sector.
+I am ***Hanji***, an engineering student by day and a gamer by night. I am self-taught on Godot, Asesprite and RPG Maker. I'm searching for an internship and school in the game sector.
 Nice to meet you!
 
 ---
 
-- 🔭 I’m currently working on my school project of Selective breeding of plants and hybrid breeding of animals using Java. (Done! Will upload later)
-- 🌱 I’m currently learning Game Development. I love thinking and solving problem, and I solve 1 challenge each day on Hackerrank and Codingame. https://www.hackerrank.com/HansMin
+- [x] 🔭 I’m currently working on my school project of Selective breeding of plants and hybrid breeding of animals using Java. (Done! Will upload later)
+- [ ] 🌱 I’m currently learning Game Development. I love thinking and solving problem, and I solve 1 challenge each day on [Hackerrank](https://www.hackerrank.com/HansMin) and [Codingame](https://www.codingame.com/profile/db06ffcc4d050af98f3ebf2ed06358c87250861). 
 
 ## ⚡ Fun fact:
 -  I love wolf 🐺! And dog! 
--  Youtube is, in my opinion, the best social and learning platform.
+  -  Youtube is, in my opinion, the best learning platform.
 ---
 ## 🧰 Toolbox
 
