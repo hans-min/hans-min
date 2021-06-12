@@ -10,7 +10,7 @@ if (isAwesome){
 <img src="https://komarev.com/ghpvc/?username=hans-min&&style=flat-square" align="center" />
 </div>  
 
-I am ***Hanji***, an engineering student by day and a gamer by night. I am self-taught on Godot, Asesprite and RPG Maker. I'm searching for an internship and school in the game sector.
+I am ***Hanji***, an engineering student by day and a gamer by night. I am self-taught on Godot, Asesprite and RPG Maker. I'm searching for an apprenticeship as a developper or programmer.
 Nice to meet you!
 
 ---
@@ -20,11 +20,12 @@ Nice to meet you!
 
 ## ⚡ Fun fact:
 -  I love wolf 🐺! And dog! 
-  -  Youtube is, in my opinion, the best learning platform.
+  - <img src="https://cdn.worldvectorlogo.com/logos/youtube-3.svg" alt="Youtube Logo" width="20" height="20"/> Youtube is, in my opinion, the best learning platform.
 ---
 ## 🧰 Toolbox
+<img src="https://cdn.worldvectorlogo.com/logos/java-4.svg" alt="Java Logo" width="60" height="60"/> &emsp;   <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino Logo" width="60" height="60"/>  &emsp;   <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="VSCode Logo" width="60" height="60"/>   &emsp;  <img src="https://cdn.worldvectorlogo.com/logos/unity-69.svg" alt="Unity Logo" width="60" height="60"/>  &emsp;   <img src="https://cdn.worldvectorlogo.com/logos/blender-2.svg" alt="Blender Logo" width="70" height="70"/> &emsp;   <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="Git Logo" width="60" height="60"/>
 
-<img src="https://cdn.worldvectorlogo.com/logos/java-4.svg" alt="Java Logo" width="60" height="60"/>  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino Logo" width="60" height="60"/> <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="VSCode Logo" width="60" height="60"/>  
+
 
 ---
 ## 💬 Connect with me  
