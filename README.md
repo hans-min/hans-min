@@ -10,7 +10,7 @@ if (isAwesome){
 <img src="https://komarev.com/ghpvc/?username=hans-min&&style=flat-square" align="center" />
 </div>  
 
-I am ***Hanji***, an engineering student by day and a gamer by night. I am self-taught on Godot, Asesprite and RPG Maker. I'm searching for an apprenticeship as a developper or programmer.
+I am ***Hanji***, an engineering student by day and a gamer by night. I am self-taught on Godot, Asesprite and Unity. I'm searching for an apprenticeship as a developper or programmer. If you need anything from me, don't hesitate to reach out through <a href="mailto:kaitothedraggy@gmail.com"> my Gmail</a>.
 Nice to meet you!
 
 ---
