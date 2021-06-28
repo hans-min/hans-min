@@ -5,7 +5,6 @@ if (isAwesome){
   return true
 }
 ```
-![Github Follow](https://img.shields.io/github/followers/hans-min?style=social)
 
 <img src="https://komarev.com/ghpvc/?username=hans-min&&style=flat-square" align="center" />
 </div>  
@@ -15,7 +14,6 @@ Nice to meet you!
 
 ---
 
-- [x] 🔭 I’m currently working on my school project of Selective breeding of plants and hybrid breeding of animals using Java. (Done! Will upload later)
 - [ ] 🌱 I’m currently learning Game Development. I love thinking and solving problem, and I usually solve challenges on [Hackerrank](https://www.hackerrank.com/HansMin) and [Codingame](https://www.codingame.com/profile/db06ffcc4d050af98f3ebf2ed06358c87250861). 
 
 ## ⚡ Fun fact:
