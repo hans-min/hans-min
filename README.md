@@ -14,7 +14,8 @@ Nice to meet you!
 
 ---
 
-- [ ] 🌱 I’m currently learning Game Development. I love thinking and solving problem, and I usually solve challenges on [Hackerrank](https://www.hackerrank.com/HansMin) and [Codingame](https://www.codingame.com/profile/db06ffcc4d050af98f3ebf2ed06358c87250861). 
+- [ ] 🌱 Currently learning Game Development. I love thinking and solving problem, and I usually solve challenges on [Hackerrank](https://www.hackerrank.com/HansMin) and [Codingame](https://www.codingame.com/profile/db06ffcc4d050af98f3ebf2ed06358c87250861). 
+- [ ] 🍎 Currently learning iOS App Development. Stay tune for my app !
 
 ## ⚡ Fun fact:
 -  I love wolf 🐺! And dog! 
