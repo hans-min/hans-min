@@ -9,13 +9,14 @@ if (isAwesome){
 <img src="https://komarev.com/ghpvc/?username=hans-min&&style=flat-square" align="center" />
 </div>  
 
-I am ***Hanji***, an apprentice at AKENSYS as a iOS developper. If you need anything from me, don't hesitate to reach out through <a href="mailto:kaitothedraggy@gmail.com"> Gmail</a> or check out the section 💬  Connect with me down below.
+I am ***Hanji***, an iOS developper apprentice at AKENSYS. If you need anything from me, don't hesitate to reach out through <a href="mailto:kaitothedraggy@gmail.com"> Gmail</a> or check out the section <a href="https://github.com/hans-min/hans-min/edit/main/README.md#-connect-with-me"> 💬 Connect with me </a>.
 Nice to meet you!
 
 ---
 
-- [ ] 🌱 Currently learning Game Development. I love thinking and solving problem, and I usually solve challenges on [Hackerrank](https://www.hackerrank.com/HansMin) and [Codingame](https://www.codingame.com/profile/db06ffcc4d050af98f3ebf2ed06358c87250861). 
-- [ ] 🍎 Currently learning iOS App Development. Stay tune for my app !
+- [x] 🌱 Currently learning Game Development (Basic) 
+- [x] 🍎 Passively learning iOS App Development (Intermediate) 
+- [ ] :spider_web: Actively learning Web Development (Beginner)
 
 ## ⚡ Fun fact:
 -  I love wolf 🐺! And dog! 
