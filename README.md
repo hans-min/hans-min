@@ -14,7 +14,7 @@ Nice to meet you!
 
 ---
 
-- [x] 🌱 Currently learning Game Development (Basic) 
+- [x] 🌱 Currently learning Game Development, working on Procedural Generation 
 - [x] 🍎 Passively learning iOS App Development (Intermediate) 
 - [ ] :spider_web: Actively learning Web Development (Beginner)
 
@@ -23,9 +23,13 @@ Nice to meet you!
   - <img src="https://cdn.worldvectorlogo.com/logos/youtube-3.svg" alt="Youtube Logo" width="20" height="20"/> Youtube is, in my opinion, the best learning platform.
 ---
 ## 🧰 Toolbox
-<img src="https://cdn.worldvectorlogo.com/logos/java-4.svg" alt="Java Logo" width="60" height="60"/> &emsp;   <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino Logo" width="60" height="60"/>  &emsp;  <img src="https://cdn.worldvectorlogo.com/logos/unity-69.svg" alt="Unity Logo" width="60" height="60"/>  &emsp;   <img src="https://cdn.worldvectorlogo.com/logos/blender-2.svg" alt="Blender Logo" width="70" height="70"/> &emsp;   <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="Git Logo" width="60" height="60"/> &emsp;   <img src="https://cdn.worldvectorlogo.com/logos/unreal-1.svg" alt="Unreal Logo" width="70" height="70"/> &emsp; <img src="https://cdn.worldvectorlogo.com/logos/swift-15.svg" alt="Swift Logo" width="70" height="70"/> &emsp;
-
-
+<p>
+  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino Logo" width="60" height="60"/> 
+  <img src="https://cdn.worldvectorlogo.com/logos/unity-69.svg" alt="Unity Logo" width="60" height="60"/> 
+  <img src="https://cdn.worldvectorlogo.com/logos/unreal-1.svg" alt="Unreal Logo" width="70" height="70"/> 
+  <img src="https://cdn.worldvectorlogo.com/logos/blender-2.svg" alt="Blender Logo" width="70" height="70"/> 
+  <img src="https://cdn.worldvectorlogo.com/logos/swift-15.svg" alt="Swift Logo" width="70" height="70"/>
+</p>
 
 ---
 ## 💬 Connect with me  
@@ -46,14 +50,10 @@ Nice to meet you!
 [![Hanji's GitHub stats](https://github-readme-stats.vercel.app/api?username=hans-min&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
-## :musical_note: My Spotify
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=21d7ekna6xenverhurwkiuo3q&cover_image=true&theme=default" /></div>  
 
-
-<img src="https://alternative.me/crypto/fear-and-greed-index.png" alt="Latest Crypto Fear & Greed Index" />
-
-<br/>  
-<div align="center"><img src="https://camo.githubusercontent.com/7998890254268d8ed476c9f66d3fa59d21dd354d2090036083c82af4cda2a0eb/68747470733a2f2f666f7274686562616467652e636f6d2f696d616765732f6261646765732f6275696c742d776974682d6c6f76652e737667"/></div>  
+<div align="center">
+  <img src = "https://camo.githubusercontent.com/7998890254268d8ed476c9f66d3fa59d21dd354d2090036083c82af4cda2a0eb/68747470733a2f2f666f7274686562616467652e636f6d2f696d616765732f6261646765732f6275696c742d776974682d6c6f76652e737667"/>
+</div>  
 
   
 
