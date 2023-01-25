@@ -19,7 +19,7 @@ Nice to meet you!
 - [ ] :spider_web: Actively learning Web Development (Beginner)
 
 ## ⚡ Fun fact:
--  I love wolf 🐺! And dog! 
+-  I'm a wolf person 🐺! And orca !
   - <img src="https://cdn.worldvectorlogo.com/logos/youtube-3.svg" alt="Youtube Logo" width="20" height="20"/> Youtube is, in my opinion, the best learning platform.
 ---
 ## 🧰 Toolbox
@@ -43,15 +43,7 @@ Nice to meet you!
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>  
 
----
-
-## &#x1f4c8; My GitHub Stats
-
-[![Hanji's GitHub stats](https://github-readme-stats.vercel.app/api?username=hans-min&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
-<div align="center">
+<div align="right">
   <img src = "https://camo.githubusercontent.com/7998890254268d8ed476c9f66d3fa59d21dd354d2090036083c82af4cda2a0eb/68747470733a2f2f666f7274686562616467652e636f6d2f696d616765732f6261646765732f6275696c742d776974682d6c6f76652e737667"/>
 </div>  
 
