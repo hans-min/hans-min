@@ -12,16 +12,17 @@ if (isAwesome){
 I am ***Hanji***, an iOS developper apprentice at AKENSYS. If you need anything from me, don't hesitate to reach out through <a href="mailto:kaitothedraggy@gmail.com"> Gmail</a> or check out the section <a href="https://github.com/hans-min/hans-min/edit/main/README.md#-connect-with-me"> 💬 Connect with me </a>.
 Nice to meet you!
 
----
 
 - [x] 🌱 Currently learning Game Development, working on Procedural Generation 
 - [x] 🍎 Passively learning iOS App Development (Intermediate) 
 - [ ] :spider_web: Actively learning Web Development (Beginner)
 
+
 ## ⚡ Fun fact:
 -  I'm a wolf person 🐺! And orca !
   - <img src="https://cdn.worldvectorlogo.com/logos/youtube-3.svg" alt="Youtube Logo" width="20" height="20"/> Youtube is, in my opinion, the best learning platform.
----
+
+
 ## 🧰 Toolbox
 <p>
   <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino Logo" width="60" height="60"/> 
@@ -30,8 +31,8 @@ Nice to meet you!
   <img src="https://cdn.worldvectorlogo.com/logos/blender-2.svg" alt="Blender Logo" width="70" height="70"/> 
   <img src="https://cdn.worldvectorlogo.com/logos/swift-15.svg" alt="Swift Logo" width="70" height="70"/>
 </p>
+ 
 
----
 ## 💬 Connect with me  
 <a href="https://github.com/hans-min" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
