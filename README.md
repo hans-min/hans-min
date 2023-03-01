@@ -15,8 +15,8 @@ Nice to meet you!
 
 - [x] 🌱 Currently learning Game Development, working on Procedural Generation 
 - [x] 🍎 Passively learning iOS App Development (Intermediate) 
-- [ ] :spider_web: Actively learning Web Development (Beginner)
-
+- [ ] :spider_web: Actively learning Web Development (Basic)
+- [ ] <img src="https://cdn.worldvectorlogo.com/logos/flutter-logo.svg" alt="Flutter Logo" width="15" height="15"/>  Actively learning Flutter (Basic)
 
 ## ⚡ Fun fact:
 -  I'm a wolf person 🐺! And orca !
@@ -25,10 +25,11 @@ Nice to meet you!
 
 ## 🧰 Toolbox
 <p>
-  <img src="https://cdn.worldvectorlogo.com/logos/swift-15.svg" alt="Swift Logo" width="50" height="50"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/godot-1.svg" alt="Godot Logo" width="80" height="80"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/unity-69.svg" alt="Unity Logo" width="50" height="50"/> &nbsp;
-  <img src="https://cdn.worldvectorlogo.com/logos/blender-2.svg" alt="Blender Logo" width="60" height="60"/> &nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/swift-15.svg" alt="Swift Logo" width="50" height="50"/> &nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/flutter-logo.svg" alt="Flutter Logo" width="50" height="50"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/godot-1.svg" alt="Godot Logo" width="80" height="80"/> 
+  <img src="https://cdn.worldvectorlogo.com/logos/unity-69.svg" alt="Unity Logo" width="50" height="50"/> &nbsp; &nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/blender-2.svg" alt="Blender Logo" width="60" height="60"/> &nbsp; &nbsp;
   <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino Logo" width="50" height="50"/> &nbsp;
 </p>
 
