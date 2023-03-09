@@ -1,13 +1,9 @@
 <h1> Xin chào, World ! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
-```java
-if (isAwesome){
-  return true
-}
+```dart
+//Everyone Is Awesome!!!
+bool get isAwesome(name: String) =>  return true;
 ```
-
-<img src="https://komarev.com/ghpvc/?username=hans-min&&style=flat-square" align="center" />
-</div>  
 
 I am ***Hanji***, an iOS developper apprentice at AKENSYS. If you need anything from me, don't hesitate to reach out through <a href="mailto:kaitothedraggy@gmail.com"> Gmail</a> or check out the section <a href="https://github.com/hans-min/hans-min/edit/main/README.md#-connect-with-me"> 💬 Connect with me </a>.
 Nice to meet you!
@@ -18,6 +14,11 @@ Nice to meet you!
 - [ ] :spider_web: Actively learning Web Development (Basic)
 - [ ] <img src="https://cdn.worldvectorlogo.com/logos/flutter-logo.svg" alt="Flutter Logo" width="15" height="15"/>  Actively learning Flutter (Basic)
 
+<details>
+   <summary>&#9776; Github Stats</summary>
+  <img src="https://github-readme-stats.vercel.app/api?username=hans-min&show_icons=true&hide_border=true"></img>
+</details>
+
 ## ⚡ Fun fact:
 -  I'm a wolf person 🐺! And orca !
   - <img src="https://cdn.worldvectorlogo.com/logos/youtube-3.svg" alt="Youtube Logo" width="20" height="20"/> Youtube is, in my opinion, the best learning platform.
@@ -25,7 +26,7 @@ Nice to meet you!
 
 ## 🧰 Toolbox
 <p>
-  <img src="https://cdn.worldvectorlogo.com/logos/swift-15.svg" alt="Swift Logo" width="50" height="50"/> &nbsp;
+   <a href="https://github.com/hans-min?tab=repositories&language=swift" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/swift-15.svg" alt="Swift Logo" width="50" height="50"/></a>  &nbsp;
   <img src="https://cdn.worldvectorlogo.com/logos/flutter-logo.svg" alt="Flutter Logo" width="50" height="50"/>
   <img src="https://cdn.worldvectorlogo.com/logos/godot-1.svg" alt="Godot Logo" width="80" height="80"/> 
   <img src="https://cdn.worldvectorlogo.com/logos/unity-69.svg" alt="Unity Logo" width="50" height="50"/> &nbsp; &nbsp;
