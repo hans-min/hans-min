@@ -9,13 +9,12 @@ I am ***Hanji***, an iOS developper apprentice at AKENSYS. If you need anything 
 Nice to meet you!
 
 
-- [x] 🌱 Currently learning Game Development, working on Procedural Generation 
-- [x] 🍎 Passively learning iOS App Development (Intermediate) 
-- [ ] :spider_web: Actively learning Web Development (Basic)
-- [ ] <img src="https://cdn.worldvectorlogo.com/logos/flutter-logo.svg" alt="Flutter Logo" width="15" height="15"/>  Actively learning Flutter (Basic)
+- [x] 🌱    Currently learning Game Development, working on Procedural Generation. Check out our game [Crashed World](https://hans-min.itch.io/crashed-world)
+- [x] 🍎 <img src="https://cdn.worldvectorlogo.com/logos/flutter-logo.svg" alt="Flutter Logo" width="15" height="15"/> Passively learning iOS App Development and Flutter(Intermediate) 
+- [ ]    :spider_web: Actively learning Web Development (Basic)
 
 <details>
-   <summary>&#9776; Github Stats</summary>
+   <summary>Github Stats</summary>
   <img src="https://github-readme-stats.vercel.app/api?username=hans-min&show_icons=true&hide_border=true"></img>
 </details>
 
@@ -29,9 +28,7 @@ Nice to meet you!
    <a href="https://github.com/hans-min?tab=repositories&language=swift" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/swift-15.svg" alt="Swift Logo" width="50" height="50"/></a>  &nbsp;
   <img src="https://cdn.worldvectorlogo.com/logos/flutter-logo.svg" alt="Flutter Logo" width="50" height="50"/>
   <img src="https://cdn.worldvectorlogo.com/logos/godot-1.svg" alt="Godot Logo" width="80" height="80"/> 
-  <img src="https://cdn.worldvectorlogo.com/logos/unity-69.svg" alt="Unity Logo" width="50" height="50"/> &nbsp; &nbsp;
   <img src="https://cdn.worldvectorlogo.com/logos/blender-2.svg" alt="Blender Logo" width="60" height="60"/> &nbsp; &nbsp;
-  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino Logo" width="50" height="50"/> &nbsp;
 </p>
 
 ## 💬 Connect with me  
