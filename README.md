@@ -6,7 +6,7 @@ bool get isAwesome(name: String) =>  return true;
 ```
 
 I am ***Hanji***, a Test Automation Engineer. Nice to meet you!
-Whatever you need, don't hesitate to reach out <a href="#-connect-with-me"> 💬 Connect with me </a>.
+Whatever you need, don't hesitate to reach out.
 
 - [x] 🌱 Trying out Game Development. Check out our game [Crashed World](https://hans-min.itch.io/crashed-world)
 - [x] 🍎 <img src="https://cdn.worldvectorlogo.com/logos/flutter-logo.svg" alt="Flutter Logo" width="15" height="15"/> Learning App Development (Advanced) 
@@ -19,8 +19,8 @@ Whatever you need, don't hesitate to reach out <a href="#-connect-with-me"> 💬
 </details>
 
 ## ⚡ Fun fact:
--  I'm a wolf person 🐺! And orca !
-  - <img src="https://cdn.worldvectorlogo.com/logos/youtube-icon-5.svg" alt="Youtube Logo" width="20" height="20"/> Youtube is, in my opinion, the best learning platform.
+-  I love wolf 🐺 and orca, as they are both apex predator and social creatures.
+- <img src="https://cdn.worldvectorlogo.com/logos/youtube-icon-5.svg" alt="Youtube Logo" width="20" height="20"/> Youtube is, in my opinion, the best learning platform.
 
 
 ## 🧰 Toolbox
@@ -32,7 +32,7 @@ Whatever you need, don't hesitate to reach out <a href="#-connect-with-me"> 💬
    <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python Logo" width="50" height="50"/>
 </p>
 
-## 💬 Connect with me  
+## 💬 Chat with me
 <a href="https://linkedin.com/in/hans-min-4510471" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
