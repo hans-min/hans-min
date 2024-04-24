@@ -6,7 +6,7 @@ bool get isAwesome(name: String) =>  return true;
 ```
 
 I am ***Hanji***, a Test Automation Engineer. Nice to meet you!
-Whatever you need, don't hesitate to reach out.
+Whatever you want to ask or discuss, don't hesitate to reach out to me.
 
 - [x] 🌱 Trying out Game Development. Check out our game [Crashed World](https://hans-min.itch.io/crashed-world)
 - [x] 🍎 <img src="https://cdn.worldvectorlogo.com/logos/flutter-logo.svg" alt="Flutter Logo" width="15" height="15"/> Learning App Development (Advanced) 
