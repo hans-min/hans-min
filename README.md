@@ -5,9 +5,8 @@
 bool get isAwesome(name: String) =>  return true;
 ```
 
-I am ***Hanji***, a Test Automation Engineer. If you need anything from me, don't hesitate to reach out through <a href="mailto:kaitothedraggy@gmail.com"> Gmail</a> or check out the section <a href="https://github.com/hans-min/hans-min/edit/main/README.md#-connect-with-me"> 💬 Connect with me </a>.
-Nice to meet you!
-
+I am ***Hanji***, a Test Automation Engineer. Nice to meet you!
+Whatever you need, don't hesitate to reach out <a href="#-connect-with-me"> 💬 Connect with me </a>.
 
 - [x] 🌱 Trying out Game Development. Check out our game [Crashed World](https://hans-min.itch.io/crashed-world)
 - [x] 🍎 <img src="https://cdn.worldvectorlogo.com/logos/flutter-logo.svg" alt="Flutter Logo" width="15" height="15"/> Learning App Development (Advanced) 
