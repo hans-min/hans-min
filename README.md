@@ -5,13 +5,13 @@
 bool get isAwesome(name: String) =>  return true;
 ```
 
-I am ***Hanji***, a Test Automation Engineer. Nice to meet you!
-Whatever you want to ask or discuss, don't hesitate to reach out to me.
+I am ***Hanji***, a Test Automation Engineer. I use Flutter/Swift for mobile development, Godot for game development, Python for testing, and Svelte/Vue for web development.
+Whatever you want to ask or discuss, don't hesitate to reach out to me. Nice to meet you!
 
 - [x] 🌱 Trying out Game Development. Check out our game [Crashed World](https://hans-min.itch.io/crashed-world)
-- [x] 🍎 <img src="https://cdn.worldvectorlogo.com/logos/flutter-logo.svg" alt="Flutter Logo" width="15" height="15"/> Learning App Development (Advanced) 
-- [ ] 🕸️ Actively learning Web Development (Intermediate)
-- [ ] 🤖 Actively working on Test Automation using Robot Framework and Python (Intermediate)
+- [x] 🍎 <img src="https://cdn.worldvectorlogo.com/logos/flutter-logo.svg" alt="Flutter Logo" width="15" height="15"/> Learning App Development 
+- [x] 🕸️ Learning Web Development with Vue and Svelte
+- [ ] 🤖 Currently working on Test Automation using Robot Framework and Python. Built some bots/crawler for personal uses.
 
 <details>
    <summary>Github Stats</summary>
